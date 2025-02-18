@@ -61,6 +61,7 @@ HAHA Wallet BOT
 ```bash
 python bot.py #or python3 bot.py
 ```
+This tool is collected from open sources
 
 Follow my channel : https://t.me/autocoin43
 
